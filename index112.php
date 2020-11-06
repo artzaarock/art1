@@ -14,8 +14,8 @@
                 <div class="card">
                     <img class="card-img-top" src="cat11.jpg">
                     <div class="card-body">
-                        <h4class="card-title">Abyssinian</h4>
-                        <p class="card-text">The Abyssinian is often a colorful cat with a distinctly ticked coat, medium in size and regal in appearance; lithe, hard and muscular, showing eager activity and lively interest in their surroundings.
+                        <h4class="card-title">Scottish Fold</h4>
+                        <p class="card-text">The Scottish Fold is a breed of domestic cat with a natural dominant-gene mutation that affects cartilage throughout the body, causing the ears to "fold", bending forward and down towards the front of the head, which gives the cat what is often described as an "owl-like" appearance.
                         </p>
                         <a href="#" class="btn btn-primary">Read more</a>
                     </div>
